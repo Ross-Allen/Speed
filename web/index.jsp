@@ -11,8 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  
+
   <h1 class="myheader">Hello World</h1>
+  <p> Hi there</p>
   $END$
   </body>
 </html>

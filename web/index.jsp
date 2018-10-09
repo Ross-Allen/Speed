@@ -11,7 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  <h2>"New Push</h2>
+  
   <h1 class="myheader">Hello World</h1>
   $END$
   </body>
